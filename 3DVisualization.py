@@ -1,4 +1,4 @@
-''' Samaneh Nobakht UCI:10059083
+''' Samaneh Nobakht 
 This scripts produces 6 separate meshes of Upper brain, lower brain, upper head, lower head and left and right hippocampi to export to VR'''
 import vtk
 #Define renderer
