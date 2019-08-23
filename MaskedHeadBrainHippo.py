@@ -1,4 +1,4 @@
-''' Samaneh Nobakht UCI:10059083
+''' Samaneh Nobakht
 This script Segments the brain and head based on hipocampus masks for preparing binary masks for 3Dvisualisation in VR
 '''
 import vtk
